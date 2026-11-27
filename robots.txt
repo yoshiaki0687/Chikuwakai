@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yoshiaki0687.github.io/Chikuwakai/sitemap.xml
