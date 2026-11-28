@@ -4,4 +4,5 @@
 ![image alt](https://github.com/yoshiaki0687/Chikuwakai/blob/fb5ee8790b8481691f51c234398288068e53255d/%E5%A4%A7%E4%BC%9A%E5%86%99%E7%9C%9F%20%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.jpg)
 ![image alt](https://github.com/yoshiaki0687/Chikuwakai/blob/main/1795845956762.jpg)
 ![image alt](https://github.com/yoshiaki0687/Chikuwakai/blob/main/1795845961660.jpg)
+![image alt](https://github.com/yoshiaki0687/Chikuwakai/blob/main/1795847234640.jpg)
 ![image alt](https://github.com/yoshiaki0687/Chikuwakai/blob/main/1795644979371.jpg)
